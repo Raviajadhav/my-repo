@@ -26,6 +26,6 @@
 Query:  Create database database_name;
 
 12. Then use the created database by using below query:
-Query:  Use database_name;
+Query:  Use database_name; 
 
 
