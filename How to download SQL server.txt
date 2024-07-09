@@ -1,0 +1,31 @@
+•1. Download SSMS  through the below link
+
+•Link:  https://www.microsoft.com/en-in/sql-server/sql-server-downloads
+
+•2. Click “Download now” button which is under Developer feature section.
+
+•3.  Install the SQL Server
+
+•4.Select Basic Installation type and Install the Server.
+
+•5.Next, click “Connect Now”. then CMD will open, minimize the CMD.
+
+•6. Then click “Install SSMS” button. Next it will automatically open web page, next click download Link for SSMS.
+
+•7. Next, Install the SSMS to complete the installation process.
+
+8.  Open SQL Server Management Studio. 
+9.  Enter the below credentials to login into the SSMS:
+	- Server name 
+	- Authentication -  select SQL Server Authentication
+	- Login
+	- Password
+10. Click “New Query” button. 
+
+11. Then Create a new database using below query:
+Query:  Create database database_name;
+
+12. Then use the created database by using below query:
+Query:  Use database_name;
+
+
