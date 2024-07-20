@@ -1,0 +1,114 @@
+event_speaker_id,event_id,speaker_name,designation,company_name,created_by,created_date,updated_by,updated_date,deleted_by,deleted_date
+1,1," Ana Margarita Medina ","Staff Developer Advocate"," LightStep ",NULL,"2024-06-17 15:22:13",NULL,NULL,NULL,NULL
+2,1," Bhaskarjyoti Saikia ",,,NULL,"2024-06-17 15:22:15",NULL,NULL,NULL,NULL
+3,1," Joshua Burgin ",,,NULL,"2024-06-17 15:22:17",NULL,NULL,NULL,NULL
+4,1," Luis Maldonado ",,,NULL,"2024-06-17 15:22:19",NULL,NULL,NULL,NULL
+5,1," Provectus ",,,NULL,"2024-06-17 15:22:22",NULL,NULL,NULL,NULL
+6,2," Aakash Shah ",CTO," oak9 ",NULL,"2024-06-17 15:22:24",NULL,NULL,NULL,NULL
+7,2," Aaron Rosenmund ","Director of Security Research and Curriculum"," Pluralsight ",NULL,"2024-06-17 15:22:27",NULL,NULL,NULL,NULL
+8,2," Aaron Stanley ","VP of Security"," dbt Labs ",NULL,"2024-06-17 15:22:29",NULL,NULL,NULL,NULL
+9,2," Aaron Turner ","SaaS CTO"," Vectra Networks ",NULL,"2024-06-17 15:22:32",NULL,NULL,NULL,NULL
+10,2," Abel Rodriguez ",,,NULL,"2024-06-17 15:22:34",NULL,NULL,NULL,NULL
+11,2," Abhay Bhargav ","Founder and CEO"," we45 ",NULL,"2024-06-17 15:22:36",NULL,NULL,NULL,NULL
+12,2," Abhijith B R ",Founder," Adversary Village ",NULL,"2024-06-17 15:22:39",NULL,NULL,NULL,NULL
+13,2," Abhilasha Bhargav-Spantzel ","Partner Security Architect"," Microsoft ",NULL,"2024-06-17 15:22:41",NULL,NULL,NULL,NULL
+14,2," Aakash Shah ",CTO," oak9 ",NULL,"2024-06-17 15:22:44",NULL,NULL,NULL,NULL
+15,2," Aaron Rosenmund ","Director of Security Research and Curriculum"," Pluralsight ",NULL,"2024-06-17 15:22:46",NULL,NULL,NULL,NULL
+16,2," Aaron Stanley ","VP of Security"," dbt Labs ",NULL,"2024-06-17 15:22:49",NULL,NULL,NULL,NULL
+17,2," Aaron Turner ","SaaS CTO"," Vectra Networks ",NULL,"2024-06-17 15:22:51",NULL,NULL,NULL,NULL
+18,2," Abel Rodriguez ",,,NULL,"2024-06-17 15:22:53",NULL,NULL,NULL,NULL
+19,2," Abhay Bhargav ","Founder and CEO"," we45 ",NULL,"2024-06-17 15:22:56",NULL,NULL,NULL,NULL
+20,2," Abhijith B R ",Founder," Adversary Village ",NULL,"2024-06-17 15:22:58",NULL,NULL,NULL,NULL
+21,2," Abhilasha Bhargav-Spantzel ","Partner Security Architect"," Microsoft ",NULL,"2024-06-17 15:23:01",NULL,NULL,NULL,NULL
+22,4," Abdullah Gharaibeh ",,,NULL,"2024-06-17 15:23:03",NULL,NULL,NULL,NULL
+23,4," Abdul Qadeer ","Member Of Technical Staff"," PayPal ",NULL,"2024-06-17 15:23:05",NULL,NULL,NULL,NULL
+24,4," Abu Kashem ","Principal Software Engineer"," Red Hat ",NULL,"2024-06-17 15:23:07",NULL,NULL,NULL,NULL
+25,4," Adam Kaplan ",,,NULL,"2024-06-17 15:23:09",NULL,NULL,NULL,NULL
+26,4," Adam Parco ",,,NULL,"2024-06-17 15:23:12",NULL,NULL,NULL,NULL
+27,4," Adi Polak ",,,NULL,"2024-06-17 15:23:15",NULL,NULL,NULL,NULL
+28,4," Aditi Ghag ",,,NULL,"2024-06-17 15:23:17",NULL,NULL,NULL,NULL
+29,4," Adolfo García Veytia ","Staff Software Engineer"," Chainguard ",NULL,"2024-06-17 15:23:19",NULL,NULL,NULL,NULL
+30,5," Aaron Rosenmund ","Director of Security Research and Curriculum"," Pluralsight ",NULL,"2024-06-17 15:23:22",NULL,NULL,NULL,NULL
+31,5," Amy Hogan- Burney ","General Manager of the Digital Crimes Unit/Associate General Counsel"," Microsoft ",NULL,"2024-06-17 15:23:24",NULL,NULL,NULL,NULL
+32,5," Andrew Kirkland ",,,NULL,"2024-06-17 15:23:26",NULL,NULL,NULL,NULL
+33,5," Beat Buesser ","Research Staff Member, AI Security and Privacy"," IBM Research ",NULL,"2024-06-17 15:23:29",NULL,NULL,NULL,NULL
+34,5," Bobbie Stempfley ","Vice President and Business Unit Security Officer"," Dell Technologies ",NULL,"2024-06-17 15:23:31",NULL,NULL,NULL,NULL
+35,5," Bob Lord ",CSO," Democratic National Committee ",NULL,"2024-06-17 15:23:34",NULL,NULL,NULL,NULL
+36,5," Bob Quinn ","Operations and Training Lead"," TPCM-USA ",NULL,"2024-06-17 15:23:36",NULL,NULL,NULL,NULL
+37,5," Bruce Schneier ","Adjunct Lecturer in Public Policy"," Harvard Kennedy School ",NULL,"2024-06-17 15:23:39",NULL,NULL,NULL,NULL
+38,6," Ahmed Hafez ",,,NULL,"2024-06-17 15:23:41",NULL,NULL,NULL,NULL
+39,6," Alex Goldblum ","Chief Executive Officer"," Eurofiber ",NULL,"2024-06-17 15:23:43",NULL,NULL,NULL,NULL
+40,6," Anders Bloom ",,,NULL,"2024-06-17 15:23:45",NULL,NULL,NULL,NULL
+41,6," Babak Fouladi ","Group CTIO"," MTN Group ",NULL,"2024-06-17 15:23:48",NULL,NULL,NULL,NULL
+42,6," Boris Dragovic ","Chief Strategy and Transformation Officer"," Hyperoptic ",NULL,"2024-06-17 15:23:50",NULL,NULL,NULL,NULL
+43,6," Brian Danfield ","Vice President, Commercial and 5G Planning"," Verizon ",NULL,"2024-06-17 15:23:52",NULL,NULL,NULL,NULL
+44,6," Cemil Soylu ",,,NULL,"2024-06-17 15:23:54",NULL,NULL,NULL,NULL
+45,6," David Cullen ",,,NULL,"2024-06-17 15:23:57",NULL,NULL,NULL,NULL
+46,7," Aika Sengirbay ",,,NULL,"2024-06-17 15:23:59",NULL,NULL,NULL,NULL
+47,7," Aladdin Almubayed ",,,NULL,"2024-06-17 15:24:01",NULL,NULL,NULL,NULL
+48,7," Alessandro Di Pinto ","Director of Security Research"," Nozomi Networks ",NULL,"2024-06-17 15:24:03",NULL,NULL,NULL,NULL
+49,7," Alexander Klimburg ","Senior Fellow"," Institute for Advanced Studies (IHS), Vienna ",NULL,"2024-06-17 15:24:06",NULL,NULL,NULL,NULL
+50,7," Alexandre Adamski ","R&D Engineer"," QUARKS LAB ",NULL,"2024-06-17 15:24:08",NULL,NULL,NULL,NULL
+51,7," Alexandre Gazet ","Information Security Researcher"," Airbus ",NULL,"2024-06-17 15:24:10",NULL,NULL,NULL,NULL
+52,7," Alex Matrosov ","Founder and CEO"," BINARLY ",NULL,"2024-06-17 15:24:13",NULL,NULL,NULL,NULL
+53,7," Allan Friedman ","Director of Cybersecurity"," U.S. Department of Commerce ",NULL,"2024-06-17 15:24:15",NULL,NULL,NULL,NULL
+54,8," Edwin Kwan ",,,NULL,"2024-06-17 15:24:17",NULL,NULL,NULL,NULL
+55,8," Shannon Lietz ",Founder," ThirdScore ",NULL,"2024-06-17 15:24:19",NULL,NULL,NULL,NULL
+56,12," Abhinav Gupta ","Director of Product Design"," ThoughtSpot ",NULL,"2024-06-17 15:24:23",NULL,NULL,NULL,NULL
+57,12," Ajay Singh ","Principal Investor"," Samsung NEXT ",NULL,"2024-06-17 15:24:25",NULL,NULL,NULL,NULL
+58,12," Anh Nguyen ",,,NULL,"2024-06-17 15:24:27",NULL,NULL,NULL,NULL
+59,12," Anirudh Koul ",,,NULL,"2024-06-17 15:24:30",NULL,NULL,NULL,NULL
+60,12," Aravind Srinivas ","Co-Founder and Chief Executive Officer"," Perplexity AI ",NULL,"2024-06-17 15:24:32",NULL,NULL,NULL,NULL
+61,12," Ari Morcos ",CEO," DatologyAI ",NULL,"2024-06-17 15:24:34",NULL,NULL,NULL,NULL
+62,12," Azalia Mirhoseini ","Member of Technical Staff"," Anthropic ",NULL,"2024-06-17 15:24:36",NULL,NULL,NULL,NULL
+63,12," Balaji Lakshminarayanan ","Staff Research Scientist (TL/Manager)"," Google ",NULL,"2024-06-17 15:24:39",NULL,NULL,NULL,NULL
+64,13," doc.ai ",,,NULL,"2024-06-17 15:24:41",NULL,NULL,NULL,NULL
+65,14," StradVision ",,,NULL,"2024-06-17 15:24:43",NULL,NULL,NULL,NULL
+66,14," StradVision ",,,NULL,"2024-06-17 15:24:45",NULL,NULL,NULL,NULL
+67,16," Abhishek Gupta ","AI Ethics Researcher"," McGill University ",NULL,"2024-06-17 15:24:48",NULL,NULL,NULL,NULL
+68,16," Ajay Singh ","Principal Investor"," Samsung NEXT ",NULL,"2024-06-17 15:24:50",NULL,NULL,NULL,NULL
+69,16," Ben Roome ",Founder," Knowledgestreem ",NULL,"2024-06-17 15:24:52",NULL,NULL,NULL,NULL
+70,16," Catherine Lu ","Founder & Managing Partner"," Basecamp Fund ",NULL,"2024-06-17 15:24:55",NULL,NULL,NULL,NULL
+71,16," Chelsea Finn ",,,NULL,"2024-06-17 15:24:57",NULL,NULL,NULL,NULL
+72,16," Dr. Alicia Kavelaars ","Co-founder and Chief Technology Officer"," OffWorld ",NULL,"2024-06-17 15:24:59",NULL,NULL,NULL,NULL
+73,16," Fiona J McEvoy ","Founder and Tech Ethics Writer/Researcher"," YouTheData ",NULL,"2024-06-17 15:25:02",NULL,NULL,NULL,NULL
+74,16," Georgia Gkioxari ","Research Scientist at Facebook AI Research"," Meta ",NULL,"2024-06-17 15:25:04",NULL,NULL,NULL,NULL
+75,17," Aaron Mishkin ",,,NULL,"2024-06-17 15:25:06",NULL,NULL,NULL,NULL
+76,17," Aaron Roth ",Professor," University of Pennsylvania ",NULL,"2024-06-17 15:25:09",NULL,NULL,NULL,NULL
+77,17," Adish Singla ","Tenure-track Faculty"," Max Planck Institute for Software Systems ",NULL,"2024-06-17 15:25:11",NULL,NULL,NULL,NULL
+78,17," Akihiko Torii ","Assistant Professor"," Tokyo Institute of Technology ",NULL,"2024-06-17 15:25:13",NULL,NULL,NULL,NULL
+79,17," Alessandro Sordoni ","Research Scientist"," Microsoft ",NULL,"2024-06-17 15:25:16",NULL,NULL,NULL,NULL
+80,17," Alexander Rush ","Associate Professor"," Cornell Tech ",NULL,"2024-06-17 15:25:18",NULL,NULL,NULL,NULL
+81,17," Alexandre Gramfort ","Senior Research Scientist"," INRIA ",NULL,"2024-06-17 15:25:20",NULL,NULL,NULL,NULL
+82,17," Alex Dimakis ","Assistant Professor"," The University of Texas at Austin ",NULL,"2024-06-17 15:25:23",NULL,NULL,NULL,NULL
+83,18," Charles Giancarlo ","CEO and Chairman"," Pure Storage ",NULL,"2024-06-17 15:25:25",NULL,NULL,NULL,NULL
+84,18," David Hatfield ","Co-Chief Executive Officer"," Lacework ",NULL,"2024-06-17 15:25:28",NULL,NULL,NULL,NULL
+85,18," Kate Darling ","IP Research Specialist"," MIT Media Lab ",NULL,"2024-06-17 15:25:30",NULL,NULL,NULL,NULL
+86,18," Matt Kixmoeller ","VP, Strategy"," Pure Storage ",NULL,"2024-06-17 15:25:33",NULL,NULL,NULL,NULL
+87,19," Adam Al-Natsheh ","Quantitative Research Analyst"," Citadel Securities ",NULL,"2024-06-17 15:25:35",NULL,NULL,NULL,NULL
+88,19," Adrian Dalca ",,,NULL,"2024-06-17 15:25:37",NULL,NULL,NULL,NULL
+89,19," Adrian Weller ","Principal Research Fellow"," University of Cambridge ",NULL,"2024-06-17 15:25:39",NULL,NULL,NULL,NULL
+90,19," Alán Aspuru-Guzik ","Chief Visionary Officer"," Kebotix ",NULL,"2024-06-17 15:25:42",NULL,NULL,NULL,NULL
+91,19," Alborz Geramifard ","Senior Research Manager"," Meta ",NULL,"2024-06-17 15:25:44",NULL,NULL,NULL,NULL
+92,19," Alekh Agarwal ","Staff Research Scientist"," Google ",NULL,"2024-06-17 15:25:46",NULL,NULL,NULL,NULL
+93,19," Alessandra Tosi ",,,NULL,"2024-06-17 15:25:49",NULL,NULL,NULL,NULL
+94,19," Alexander Ratner ","Co-Founder and CEO"," Snorkel AI ",NULL,"2024-06-17 15:25:51",NULL,NULL,NULL,NULL
+95,9," Nader Sabry ",,,NULL,"2024-06-17 15:25:54",NULL,NULL,NULL,NULL
+96,9," Netifi ",,,NULL,"2024-06-17 15:25:57",NULL,NULL,NULL,NULL
+97,9," Rajesh Easwaramoorthy ",,,NULL,"2024-06-17 15:25:59",NULL,NULL,NULL,NULL
+98,10," Amity Millhiser ","Vice Chair"," PwC ",NULL,"2024-06-17 15:26:01",NULL,NULL,NULL,NULL
+99,10," Anil Dash ","Chief Executive Officer"," Glitch ",NULL,"2024-06-17 15:26:04",NULL,NULL,NULL,NULL
+100,10," Beth Boettcher ","Senior Vice President, Customer Champion Leader"," Oracle ",NULL,"2024-06-17 15:26:06",NULL,NULL,NULL,NULL
+101,10," Beverly Rider ","Executive Director"," NEOM ",NULL,"2024-06-17 15:26:08",NULL,NULL,NULL,NULL
+102,10," Brian Greene ",Founder," World Science Festival ",NULL,"2024-06-17 15:26:11",NULL,NULL,NULL,NULL
+103,10," Claudia Saran ","Vice Chair, Culture"," KPMG ",NULL,"2024-06-17 15:26:13",NULL,NULL,NULL,NULL
+104,10," Diego Pantoja-Navajas ","Vice President of New Products, AWS Business Applications"," Amazon Web Services ",NULL,"2024-06-17 15:26:16",NULL,NULL,NULL,NULL
+105,10," Edward Screven ","Chief Corporate Architect"," Oracle ",NULL,"2024-06-17 15:26:18",NULL,NULL,NULL,NULL
+106,11," Barbara Boxer ",,,NULL,"2024-06-17 15:26:20",NULL,NULL,NULL,NULL
+107,11," Becky Sage ","Director of Acceleration"," EDUCATE Ventures Research ",NULL,"2024-06-17 15:26:22",NULL,NULL,NULL,NULL
+108,11," Christy Haubegger ",Executive," Creative Artists Agency ",NULL,"2024-06-17 15:26:25",NULL,NULL,NULL,NULL
+109,11," Dave Donatelli ","EVP & General Manager, Enterprise Group"," HP ",NULL,"2024-06-17 15:26:27",NULL,NULL,NULL,NULL
+110,11," Debbie Sterling ","Founder / CEO"," GoldieBlox ",NULL,"2024-06-17 15:26:29",NULL,NULL,NULL,NULL
+111,11," Douglas Fisher ","Senior Vice President & Chief Security Officer"," Lenovo ",NULL,"2024-06-17 15:26:32",NULL,NULL,NULL,NULL
+112,11," Ganesan Rathinam ","Founder, Executive Director, Chain-Sys Corporation"," Chain Sys ",NULL,"2024-06-17 15:26:34",NULL,NULL,NULL,NULL
+113,11," Jerry West ",,,NULL,"2024-06-17 15:26:36",NULL,NULL,NULL,NULL

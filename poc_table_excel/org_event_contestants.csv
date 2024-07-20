@@ -1,0 +1,27 @@
+event_contestant_id,event_id,contestant_name,contestant_desc,created_by,created_date,updated_by,updated_date,deleted_by,deleted_date
+1,1," Second State ","WasmEdge: a lightweight, high-performance open source WebAssembly runtime specifically optimized for server-side & edge applications",NULL,"2024-06-17 17:07:14",NULL,NULL,NULL,NULL
+2,2," Alex Konviser ",Founder,NULL,"2024-06-17 17:07:14",NULL,NULL,NULL,NULL
+3,2," Brey Laude ",Founder,NULL,"2024-06-17 17:07:14",NULL,NULL,NULL,NULL
+4,2," Entitle ","Automated least privilege access for critical cloud applications.",NULL,"2024-06-17 17:07:14",NULL,NULL,NULL,NULL
+5,2," Neu Ocean Technologies ","Scalable AI-powered business management and automation PaaS & IaaS Provider.",NULL,"2024-06-17 17:07:14",NULL,NULL,NULL,NULL
+6,2," Alex Konviser ",Founder,NULL,"2024-06-17 17:07:14",NULL,NULL,NULL,NULL
+7,2," Brey Laude ",Founder,NULL,"2024-06-17 17:07:14",NULL,NULL,NULL,NULL
+8,2," Entitle ","Automated least privilege access for critical cloud applications.",NULL,"2024-06-17 17:07:14",NULL,NULL,NULL,NULL
+9,2," Neu Ocean Technologies ","Scalable AI-powered business management and automation PaaS & IaaS Provider.",NULL,"2024-06-17 17:07:15",NULL,NULL,NULL,NULL
+10,6," MedUX ","MedUX is the leading Internet Quality of Experience testing and monitoring company for fixed and mobile networks",NULL,"2024-06-17 17:07:15",NULL,NULL,NULL,NULL
+11,8," ReasonLabs ","ReasonLabs is a leading cybersecurity company providing home users with the same level of cyber protection used by Fortune 500 companies.",NULL,"2024-06-17 17:07:15",NULL,NULL,NULL,NULL
+12,17," Aaron Mishkin ",,NULL,"2024-06-17 17:07:15",NULL,NULL,NULL,NULL
+13,17," Aaron Roth ",Professor,NULL,"2024-06-17 17:07:15",NULL,NULL,NULL,NULL
+14,17," Adish Singla ","Tenure-track Faculty",NULL,"2024-06-17 17:07:15",NULL,NULL,NULL,NULL
+15,17," Akihiko Torii ","Assistant Professor",NULL,"2024-06-17 17:07:15",NULL,NULL,NULL,NULL
+16,17," Alessandro Sordoni ","Research Scientist",NULL,"2024-06-17 17:07:15",NULL,NULL,NULL,NULL
+17,17," Alexander Rush ","Associate Professor",NULL,"2024-06-17 17:07:16",NULL,NULL,NULL,NULL
+18,17," Alexandre Gramfort ","Senior Research Scientist",NULL,"2024-06-17 17:07:16",NULL,NULL,NULL,NULL
+19,17," Alex Dimakis ","Assistant Professor",NULL,"2024-06-17 17:07:16",NULL,NULL,NULL,NULL
+20,17," 360 Security Center ","360 Security Center is an all-in-one mobile optimizer and security app offering Internet and mobile security products.",NULL,"2024-06-17 17:07:16",NULL,NULL,NULL,NULL
+21,17," AITRICS ","AITRICS is taking on the ultimate role of giving everyone access to the power of data-driven health intelligence.",NULL,"2024-06-17 17:07:16",NULL,NULL,NULL,NULL
+22,17," Alibaba Group ","Alibaba Group enables businesses to transform the way they market, sell, operate, and improve their efficiencies.",NULL,"2024-06-17 17:07:16",NULL,NULL,NULL,NULL
+23,17," Amazon ","Amazon is a global tech firm with a focus on e-commerce, cloud computing, digital streaming, and artificial intelligence.",NULL,"2024-06-17 17:07:16",NULL,NULL,NULL,NULL
+24,17," Ant Group ","Ant Group strives to enable all consumers and small businesses to have equal access to financial and other services through technology.",NULL,"2024-06-17 17:07:16",NULL,NULL,NULL,NULL
+25,17," Apple ","Apple is a corporation that designs, manufactures, and markets consumer electronics, personal computers, and software.",NULL,"2024-06-17 17:07:16",NULL,NULL,NULL,NULL
+26,17," AimBrain ","AimBrain helps organisations detect and prevent fraud. Anomaly detection, behavioural biometrics & 3 active biometric authentication modules",NULL,"2024-06-17 17:07:16",NULL,NULL,NULL,NULL

@@ -1,0 +1,30 @@
+news_id,org_id,announced_date,news_desc,created_by,created_date,updated_by,updated_date,deleted_by,deleted_date
+1,15,2024-04-30," Globe Newswire —  EasyQuote Reimagined: The Pioneering UK Price Comparison Website Relaunches ",NULL,"2024-06-14 19:00:09",NULL,NULL,NULL,NULL
+2,8,2024-03-05,"PR Newswire —Physicians Weekly Acquires Figure 1 to Enhance Digital Tools for Healthcare Professionals",NULL,"2024-06-14 19:07:03",NULL,NULL,NULL,NULL
+3,8,2024-03-05,"BetaKit —Medical sharing platform Figure 1 acquired by Physicians Weekly",NULL,"2024-06-14 19:07:07",NULL,NULL,NULL,NULL
+4,8,2024-02-26,"BetaKit —Medical sharing platform Figure 1 acquired by Physicians Weekly",NULL,"2024-06-14 19:07:14",NULL,NULL,NULL,NULL
+5,8,2024-02-26,"BetaKit —Medical sharing platform Figure 1 acquired by Physician’s Weekly",NULL,"2024-06-14 19:07:17",NULL,NULL,NULL,NULL
+6,8,2024-02-22,"PR Newswire —Physicians Weekly Acquires Figure 1 to Enhance Digital Tools for Healthcare Professionals",NULL,"2024-06-14 19:07:22",NULL,NULL,NULL,NULL
+7,8,2020-05-11,"Benzinga —Gold Outshines Silver As Economics Widen Price Ratio",NULL,"2024-06-14 19:07:56",NULL,NULL,NULL,NULL
+8,8,2020-04-27,"Business Wire —Privet Fund and UPG Enterprises Issue Letter to Synalloy Stakeholders Regarding the Significant Opportunities Associated with Better Leadership",NULL,"2024-06-14 19:08:00",NULL,NULL,NULL,NULL
+9,8,2020-04-22,"Computer World UK —Windows 10s pandemic support extension: What it means",NULL,"2024-06-14 19:08:01",NULL,NULL,NULL,NULL
+10,8,2020-04-09,"Forbes —Riskiest Dividend Yields",NULL,"2024-06-14 19:08:03",NULL,NULL,NULL,NULL
+11,10,2024-06-07,"Computer Weekly —Juniper Networks claims first with AIOps to WAN routing",NULL,"2024-06-14 19:10:04",NULL,NULL,NULL,NULL
+12,10,2024-06-05,"Business Wire —Juniper Networks Brings Industrys First and Only AIOps to WAN Routing, Delivering AI-Native Insight for Exceptional Experiences",NULL,"2024-06-14 19:10:05",NULL,NULL,NULL,NULL
+13,10,2024-06-04,"Computer Reseller News UK —Juniper Networks and Westcon-Comstor expand EMEA distribution deal to the UK, Ireland and France",NULL,"2024-06-14 19:10:07",NULL,NULL,NULL,NULL
+14,10,2024-06-04,"Leviathan Security Group —Vulnerability Research and the Importance of Supporting Young Talent — Leviathan Security Group - Penetration Testing, Security Assessment, Risk Advisory",NULL,"2024-06-14 19:10:08",NULL,NULL,NULL,NULL
+15,10,2024-05-07,"SeekingAlpha —Juniper Networks/HP Enterprise deal spread widens amid report on DOJ review",NULL,"2024-06-14 19:10:09",NULL,NULL,NULL,NULL
+16,10,2024-04-29,"PRNewswire —Microland announces Global Elite Plus Status with Juniper Networks to launch Network as a Service offering",NULL,"2024-06-14 19:10:11",NULL,NULL,NULL,NULL
+17,10,2024-04-25,"SeekingAlpha —Juniper Networks Non-GAAP EPS of $0.29 misses by $0.11, revenue of $1.15B misses by $80M",NULL,"2024-06-14 19:10:12",NULL,NULL,NULL,NULL
+18,10,2024-04-25,"SeekingAlpha —Juniper Networks reports Q1 top and bottom line miss, says HPE merger on track to close",NULL,"2024-06-14 19:10:16",NULL,NULL,NULL,NULL
+19,10,2024-04-23,"Globe Newswire —SHAREHOLDER ALERT: Planned Mergers of M.D.C. Holdings, Agiliti Inc, Juniper Networks, and Kaman Corporation Under Investigation by Johnson Fistel",NULL,"2024-06-14 19:10:18",NULL,NULL,NULL,NULL
+20,10,2024-04-15,"Security Week —Juniper Networks Publishes Dozens of New Security Advisories",NULL,"2024-06-14 19:10:19",NULL,NULL,NULL,NULL
+21,17,2023-10-06,"openPR.com —Registered Agent Service Market Insights by Business Growth, Development Factors, Revenue Strategies, and Futu",NULL,"2024-06-14 19:11:02",NULL,NULL,NULL,NULL
+22,17,2016-01-22,"Sramana Mitra —Thought Leaders in Cloud Computing: Ravi Reddy, CEO of Sunera Technologies (Part 5)",NULL,"2024-06-14 19:11:03",NULL,NULL,NULL,NULL
+23,17,2016-01-21,"Sramana Mitra —Thought Leaders in Cloud Computing: Ravi Reddy, CEO of Sunera Technologies (Part 4)",NULL,"2024-06-14 19:11:04",NULL,NULL,NULL,NULL
+24,17,2016-01-20,"Sramana Mitra —Thought Leaders in Cloud Computing: Ravi Reddy, CEO of Sunera Technologies (Part 3)",NULL,"2024-06-14 19:11:06",NULL,NULL,NULL,NULL
+25,17,2016-01-19,"Sramana Mitra —Thought Leaders in Cloud Computing: Ravi Reddy, CEO of Sunera Technologies (Part 2)",NULL,"2024-06-14 19:11:07",NULL,NULL,NULL,NULL
+26,17,2016-01-18,"Sramana Mitra —Thought Leaders in Cloud Computing: Ravi Reddy, CEO of Sunera Technologies (Part 1)",NULL,"2024-06-14 19:11:08",NULL,NULL,NULL,NULL
+27,17,2015-10-27,"Market Wired - Top —Partners Drive Innovation and Customer Success With Oracle Cloud Platform",NULL,"2024-06-14 19:11:10",NULL,NULL,NULL,NULL
+28,17,2015-06-05,"YourStory News —Know your customers better with Meltag, an IoT, mobile and cloud-based loyalty program for brands",NULL,"2024-06-14 19:11:11",NULL,NULL,NULL,NULL
+29,1,2022-11-10,"The Economic Times —Fintech fund White Venture Capital launches programme to help executives start up",NULL,"2024-06-14 19:11:19",NULL,NULL,NULL,NULL

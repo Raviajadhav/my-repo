@@ -1,0 +1,20 @@
+event_id,org_id,event_name,event_type,start_date,end_date,location,event_url,created_by,created_date,updated_by,updated_date,deleted_by,deleted_date
+1,10," AWS re:Invent ",Conference,2024-12-02,2024-12-06,"Las Vegas, Nevada, United States",reinvent.awsevents.com/,NULL,"2024-06-14 18:54:40",NULL,NULL,NULL,NULL
+2,10," RSA Conference 2023 ",Null,2023-04-24,2023-04-27,"San Francisco, California, United States",www.rsaconference.com/usa,NULL,"2024-06-14 19:00:32",NULL,NULL,NULL,NULL
+3,10," RSA Conference 2023 ",Null,2023-04-24,2023-04-27,"San Francisco, California, United States",www.rsaconference.com/usa,NULL,"2024-06-14 19:00:36",NULL,NULL,NULL,NULL
+4,10," KubeCon + CloudNativeCon North America 2022 ",Conference,2022-10-11,2022-10-15,"Los Angeles, California, United States",events.linuxfoundation.org/kubecon-cloudnativec...,NULL,"2024-06-14 19:00:40",NULL,NULL,NULL,NULL
+5,10," RSA Conference 2022 ",Conference,2022-06-06,2022-06-09,"San Francisco, California, United States",www.rsaconference.com/usa,NULL,"2024-06-14 19:00:43",NULL,NULL,NULL,NULL
+6,10," Broadband World Forum ",Conference,2021-10-12,2021-10-14,"Amsterdam, Noord-Holland, The Netherlands",tmt.knect365.com/bbwf/,NULL,"2024-06-14 19:00:46",NULL,NULL,NULL,NULL
+7,10," Black Hat USA 2021 ",Conference,2021-08-01,2021-08-05,,www.blackhat.com,NULL,"2024-06-14 19:00:49",NULL,NULL,NULL,NULL
+8,10," RSA Conference 2021 ",Conference,2021-05-17,2021-05-20,"San Francisco, California, United States",www.rsaconference.com/usa,NULL,"2024-06-14 19:00:52",NULL,NULL,NULL,NULL
+9,17," Oracle OpenWorld 2019 ",Conference,2019-09-16,2019-09-19,"San Francisco, California, United States",www.oracle.com/openworld/,NULL,"2024-06-14 19:01:30",NULL,NULL,NULL,NULL
+10,17," Oracle OpenWorld 2018 ",Conference,2018-10-22,2018-10-25,"San Francisco, California, United States",www.oracle.com/openworld/index.html,NULL,"2024-06-14 19:01:34",NULL,NULL,NULL,NULL
+11,17," Oracle Openworld 2017 ",Conference,2017-10-01,2017-10-05,"San Francisco, California, United States",www.oracle.com/openworld/index.html,NULL,"2024-06-14 19:01:40",NULL,NULL,NULL,NULL
+12,26," Deep Learning Summit San Francisco 2020 ",Conference,2020-01-30,2020-01-31,"San Francisco, California, United States",www.re-work.co/events/deep-learning-summit-san-...,NULL,"2024-06-14 19:02:21",NULL,NULL,NULL,NULL
+13,26," NIPS 2019 ",Conference,2019-12-08,2019-12-14,"Vancouver, Alberta, Canada",nips.cc/,NULL,"2024-06-14 19:02:25",NULL,NULL,NULL,NULL
+14,26," CVPR 2019 ",Conference,2019-06-16,2019-06-20,"Long Beach, California, United States",cvpr2019.thecvf.com/,NULL,"2024-06-14 19:02:29",NULL,NULL,NULL,NULL
+15,26," CVPR 2019 ",Conference,2019-06-16,2019-06-20,"Long Beach, California, United States",cvpr2019.thecvf.com/,NULL,"2024-06-14 19:02:33",NULL,NULL,NULL,NULL
+16,26," Deep Learning Summit San Francisco 2019 ",Conference,2019-01-24,2019-01-25,"San Francisco, California, United States",www.re-work.co/events/deep-learning-summit-san-...,NULL,"2024-06-14 19:02:37",NULL,NULL,NULL,NULL
+17,26," NIPS 2018 ",Conference,2018-12-03,2018-12-08,"Montréal, Quebec, Canada",nips.cc/,NULL,"2024-06-14 19:02:41",NULL,NULL,NULL,NULL
+18,26," Pure // Accelerate 2018 ",Conference,2018-05-22,2018-05-24,"San Francisco, California, United States",www.purestorage.com/events/accelerate-2018.html,NULL,"2024-06-14 19:02:45",NULL,NULL,NULL,NULL
+19,26," NIPS 2017 ",Conference,2017-12-04,2017-12-09,"Long Beach, California, United States",nips.cc/,NULL,"2024-06-14 19:02:49",NULL,NULL,NULL,NULL

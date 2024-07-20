@@ -1,0 +1,51 @@
+profile_id,org_id,employee_name,designation,contact_no,email_id,created_by,created_date,updated_by,updated_date,deleted_by,deleted_date
+1,2," Sandeep Tandon ","Founder & Partner",NULL,NULL,NULL,"2024-06-12 19:54:55",NULL,NULL,NULL,NULL
+2,2," Kunal Shah ",Co-Founder,NULL,NULL,NULL,"2024-06-12 20:07:51",NULL,NULL,NULL,NULL
+3,3," Vishwa Chandra ",Co-Founder,NULL,NULL,NULL,"2024-06-12 20:10:11",NULL,NULL,NULL,NULL
+4,3," Tejus Sawjiani ",Co-Founder,NULL,NULL,NULL,"2024-06-12 20:10:14",NULL,NULL,NULL,NULL
+5,3," Stefan Einarsson ",Co-Founder/Co-CEO,NULL,NULL,NULL,"2024-06-12 20:10:15",NULL,NULL,NULL,NULL
+6,4," Arshad Balwa ","Founder and CEO",NULL,NULL,NULL,"2024-06-12 20:10:25",NULL,NULL,NULL,NULL
+7,4," Giridhar Malpani ",Investor,NULL,NULL,NULL,"2024-06-12 20:10:27",NULL,NULL,NULL,NULL
+8,6," Gurinder Nagra ",CEO,NULL,NULL,NULL,"2024-06-12 20:10:59",NULL,NULL,NULL,NULL
+9,8," Jennifer Mitrenga Maymon ","Vice-President of Strategic Partnerships",NULL,NULL,NULL,"2024-06-12 20:11:33",NULL,NULL,NULL,NULL
+10,8," Ashley Harris ","General Counsel",NULL,NULL,NULL,"2024-06-12 20:11:35",NULL,NULL,NULL,NULL
+11,8," Joanna Riley ",Investor,NULL,NULL,NULL,"2024-06-12 20:11:38",NULL,NULL,NULL,NULL
+12,8," Asiff Hirji ",President,NULL,NULL,NULL,"2024-06-12 20:11:40",NULL,NULL,NULL,NULL
+13,8," Ruben Padron ","Chief Data Officer",NULL,NULL,NULL,"2024-06-12 20:11:42",NULL,NULL,NULL,NULL
+14,8," Jim Del Favero ","Head of Product",NULL,NULL,NULL,"2024-06-12 20:11:44",NULL,NULL,NULL,NULL
+15,8," Jason Brausewetter ","President, EQ Private Company Solutions - Astrella",NULL,NULL,NULL,"2024-06-12 20:11:46",NULL,NULL,NULL,NULL
+16,8," Michael Tannenbaum ",CEO,NULL,NULL,NULL,"2024-06-12 20:11:48",NULL,NULL,NULL,NULL
+17,10," Rami Rahim ",CEO,NULL,NULL,NULL,"2024-06-12 20:12:24",NULL,NULL,NULL,NULL
+18,10," Pradeep Sindhu ","Founder & Chief Scientist",NULL,NULL,NULL,"2024-06-12 20:12:26",NULL,NULL,NULL,NULL
+19,10," Anand. S. Athreya ","EVP Engineering, Chief Development Officer",NULL,NULL,NULL,"2024-06-12 20:12:28",NULL,NULL,NULL,NULL
+20,10," Kevin Hutchins ","SVP, Strategy & Product Mgmt",NULL,NULL,NULL,"2024-06-12 20:12:30",NULL,NULL,NULL,NULL
+21,10," Ken Miller ","Executive Vice President, Chief Financial Officer",NULL,NULL,NULL,"2024-06-12 20:12:32",NULL,NULL,NULL,NULL
+22,10," Darshan T G ","Software Engineer",NULL,NULL,NULL,"2024-06-12 20:12:34",NULL,NULL,NULL,NULL
+23,10," Guy Davies ","Senior Consulting Engineer Specialist",NULL,NULL,NULL,"2024-06-12 20:12:36",NULL,NULL,NULL,NULL
+24,10," Alex Gray ","Senior Vice President, Customer Services and Support",NULL,NULL,NULL,"2024-06-12 20:12:38",NULL,NULL,NULL,NULL
+25,14," Carlos Alberto Arroyo Gil ",Founder,NULL,NULL,NULL,"2024-06-13 19:16:18",NULL,NULL,NULL,NULL
+26,14," Daniel Arroyo Gil ",Co-Founder,NULL,NULL,NULL,"2024-06-13 19:16:21",NULL,NULL,NULL,NULL
+27,17," Srikanth Pakala ","Co-Founder and Chairman",NULL,NULL,NULL,"2024-06-13 19:16:55",NULL,NULL,NULL,NULL
+28,17," Ravi Reddy ","Co-Founder and CEO",NULL,NULL,NULL,"2024-06-13 19:16:58",NULL,NULL,NULL,NULL
+29,17," Vinil Vadi ","Chief Digital Officer",NULL,NULL,NULL,"2024-06-13 19:17:01",NULL,NULL,NULL,NULL
+30,17," Ravindra Sarawagi ","Chief Financial Officer, Vice President Finance and Accounts",NULL,NULL,NULL,"2024-06-13 19:17:04",NULL,NULL,NULL,NULL
+31,17," Sudheer Mareddi ","Co-Founder and Managing Director",NULL,NULL,NULL,"2024-06-13 19:17:07",NULL,NULL,NULL,NULL
+32,17," Anil Thalakera ",COO,NULL,NULL,NULL,"2024-06-13 19:17:10",NULL,NULL,NULL,NULL
+33,17," Craig Upton ","Regional Partner & Head",NULL,NULL,NULL,"2024-06-13 19:17:13",NULL,NULL,NULL,NULL
+34,18," Billy Jones ",CFO,NULL,NULL,NULL,"2024-06-13 19:17:26",NULL,NULL,NULL,NULL
+35,20," Venkata Raju Chakka ","Chief Executive Officer",NULL,NULL,NULL,"2024-06-13 19:17:49",NULL,NULL,NULL,NULL
+36,20," Y. V. S. S. MURTY ",Founder,NULL,NULL,NULL,"2024-06-13 19:17:52",NULL,NULL,NULL,NULL
+37,21," Kalyan Kar ","Cofounder & Director",NULL,NULL,NULL,"2024-06-13 19:18:07",NULL,NULL,NULL,NULL
+38,21," Subhalakshmi Samanta ",CEO,NULL,NULL,NULL,"2024-06-13 19:21:41",NULL,NULL,NULL,NULL
+39,21," Kalpadip Basu ",COO,NULL,NULL,NULL,"2024-06-13 19:21:44",NULL,NULL,NULL,NULL
+40,21," Abhishek Nandy ","Chief Data Scientist,Cofounder",NULL,NULL,NULL,"2024-06-13 19:21:47",NULL,NULL,NULL,NULL
+41,21," Indranil Mukhopadhyay ",CIO,NULL,NULL,NULL,"2024-06-13 19:21:50",NULL,NULL,NULL,NULL
+42,23," Jiaming Li ",Co-Founder,NULL,NULL,NULL,"2024-06-13 19:22:15",NULL,NULL,NULL,NULL
+43,23," Chong Wang ","Founder Partner",NULL,NULL,NULL,"2024-06-13 19:22:18",NULL,NULL,NULL,NULL
+44,25," Charlie Rapple ","Chief Customer Officer Co-founder",NULL,NULL,NULL,"2024-06-13 19:22:42",NULL,NULL,NULL,NULL
+45,25," David Sommer ","Chief Product Officer and Co-founder",NULL,NULL,NULL,"2024-06-13 19:22:46",NULL,NULL,NULL,NULL
+46,25," Stuart Dawson ",CFO,NULL,NULL,NULL,"2024-06-13 19:22:49",NULL,NULL,NULL,NULL
+47,25," Melinda Kenneway ","Chief Executive Officer Co-founder",NULL,NULL,NULL,"2024-06-13 19:22:52",NULL,NULL,NULL,NULL
+48,26," Stephen Balaban ","Co-Founder & CEO",NULL,NULL,NULL,"2024-06-13 19:23:03",NULL,NULL,NULL,NULL
+49,26," Michael Balaban ","Co-Founder & Head of Engineering",NULL,NULL,NULL,"2024-06-13 19:23:07",NULL,NULL,NULL,NULL
+50,26," Chris MacNaughton ","Senior Software Engineer",NULL,NULL,NULL,"2024-06-13 19:23:10",NULL,NULL,NULL,NULL

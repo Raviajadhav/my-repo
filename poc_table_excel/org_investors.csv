@@ -1,0 +1,55 @@
+investor_id,org_funding_id,investor_name,no_of_investments,no_of_exits,location,created_by,created_date,updated_by,updated_date,deleted_by,deleted_date
+1,1,"Union Square Ventures",453,59,"New York , New York , United States",NULL,"2024-06-14 15:09:26",NULL,NULL,NULL,NULL
+2,1,"Samsung NEXT",328,35,"Mountain View , California , United States",NULL,"2024-06-14 15:09:28",NULL,NULL,NULL,NULL
+3,1,"Version One Ventures",151,33,"Vancouver , British Columbia , Canada",NULL,"2024-06-14 15:09:29",NULL,NULL,NULL,NULL
+4,1,Hedgewood,117,25,"Toronto , Ontario , Canada",NULL,"2024-06-14 15:11:00",NULL,NULL,NULL,NULL
+5,1,"Kensington Capital Partners Limited",70,26,"Toronto , Ontario , Canada",NULL,"2024-06-14 15:11:02",NULL,NULL,NULL,NULL
+6,1,"Rho Canada Ventures",45,15,"New York , New York , United States",NULL,"2024-06-14 15:12:41",NULL,NULL,NULL,NULL
+7,1,"Manulife Financial",17,8,"Toronto , Ontario , Canada",NULL,"2024-06-14 15:12:43",NULL,NULL,NULL,NULL
+8,2,"Union Square Ventures",453,59,"New York , New York , United States",NULL,"2024-06-14 15:12:45",NULL,NULL,NULL,NULL
+9,2,"Allen & Company",179,67,"Lakeland , Florida , United States",NULL,"2024-06-14 15:12:47",NULL,NULL,NULL,NULL
+10,2,"Graph Ventures",158,28,"Palo Alto , California , United States",NULL,"2024-06-14 15:12:49",NULL,NULL,NULL,NULL
+11,2,"Version One Ventures",151,33,"Vancouver , British Columbia , Canada",NULL,"2024-06-14 15:12:50",NULL,NULL,NULL,NULL
+12,2,"Rho Canada Ventures",45,15,"New York , New York , United States",NULL,"2024-06-14 15:12:52",NULL,NULL,NULL,NULL
+13,4,"Union Square Ventures",453,59,"New York , New York , United States",NULL,"2024-06-14 15:12:54",NULL,NULL,NULL,NULL
+14,4,"Version One Ventures",151,33,"Vancouver , British Columbia , Canada",NULL,"2024-06-14 15:12:56",NULL,NULL,NULL,NULL
+15,4,"Rho Canada Ventures",45,15,"New York , New York , United States",NULL,"2024-06-14 15:12:58",NULL,NULL,NULL,NULL
+16,4,"Jevon MacDonald",13,4,"Halifax , Nova Scotia , Canada",NULL,"2024-06-14 15:12:59",NULL,NULL,NULL,NULL
+17,5,DMZ,277,36,"Toronto , Ontario , Canada",NULL,"2024-06-14 15:13:38",NULL,NULL,NULL,NULL
+18,5,"MaRS Investment Accelerator Fund",225,64,"Toronto , Ontario , Canada",NULL,"2024-06-14 15:13:42",NULL,NULL,NULL,NULL
+19,5,"Version One Ventures",151,33,"Vancouver , British Columbia , Canada",NULL,"2024-06-14 15:13:52",NULL,NULL,NULL,NULL
+20,5,"Rho Canada Ventures",45,15,"New York , New York , United States",NULL,"2024-06-14 15:13:56",NULL,NULL,NULL,NULL
+21,5,"Fastbreak Ventures",23,7,"Toronto , Ontario , Canada",NULL,"2024-06-14 15:13:58",NULL,NULL,NULL,NULL
+22,5,RFI,22,3,"Toronto , Ontario , Canada",NULL,"2024-06-14 15:14:00",NULL,NULL,NULL,NULL
+23,5,"Daniel Debow",13,6,"Toronto , Ontario , Canada",NULL,"2024-06-14 15:14:02",NULL,NULL,NULL,NULL
+24,5,"Jevon MacDonald",13,4,"Halifax , Nova Scotia , Canada",NULL,"2024-06-14 15:14:04",NULL,NULL,NULL,NULL
+25,5,"Zen Chu",5,2,"Cambridge , Massachusetts , United States",NULL,"2024-06-14 15:14:05",NULL,NULL,NULL,NULL
+26,6,Cantos,98,8,"San Francisco , California , United States",NULL,"2024-06-14 15:14:42",NULL,NULL,NULL,NULL
+27,6,"Neotribe Ventures",62,8,"San Francisco , California , United States",NULL,"2024-06-14 15:14:43",NULL,NULL,NULL,NULL
+28,6,"OShaughnessy Ventures",13,0,"Greenwich , Connecticut , United States",NULL,"2024-06-14 15:32:24",NULL,NULL,NULL,NULL
+29,6,"Energy Capital Ventures",6,0,"Chicago , Illinois , United States",NULL,"2024-06-14 15:32:44",NULL,NULL,NULL,NULL
+30,7,Cantos,98,8,"San Francisco , California , United States",NULL,"2024-06-14 15:32:47",NULL,NULL,NULL,NULL
+31,7,"Energy Capital Ventures",6,0,"Chicago , Illinois , United States",NULL,"2024-06-14 15:32:50",NULL,NULL,NULL,NULL
+32,8,Techstars,6027,487,"Boulder , Colorado , United States",NULL,"2024-06-14 15:33:01",NULL,NULL,NULL,NULL
+33,10,"QED Investors",332,40,"Alexandria , Virginia , United States",NULL,"2024-06-14 15:33:16",NULL,NULL,NULL,NULL
+34,10,"Kunal hchv",266,15,"Bengaluru , Karnataka , India",NULL,"2024-06-14 15:33:19",NULL,NULL,NULL,NULL
+35,10,"Ramakant Sharma",85,1,"Bengaluru , Karnataka , India",NULL,"2024-06-14 15:33:23",NULL,NULL,NULL,NULL
+36,10,"Whiteboard Capital",71,3,"Mumbai , Maharashtra , India",NULL,"2024-06-14 15:33:26",NULL,NULL,NULL,NULL
+37,10,"Singularity Ventures",19,3,"Chennai , Tamil Nadu , India",NULL,"2024-06-14 15:33:29",NULL,NULL,NULL,NULL
+38,10,"White Venture Capital",10,0,"Singapore , Central Region , Singapore",NULL,"2024-06-14 15:33:32",NULL,NULL,NULL,NULL
+39,10,"Climber Capital",6,0,"Mumbai , Maharashtra , India",NULL,"2024-06-14 15:33:35",NULL,NULL,NULL,NULL
+40,10,"Satyam Singh",6,0,"Mumbai , Maharashtra , India",NULL,"2024-06-14 15:33:38",NULL,NULL,NULL,NULL
+41,10,"AJ Capital",4,0,"Singapore , Central Region , Singapore",NULL,"2024-06-14 15:33:42",NULL,NULL,NULL,NULL
+42,10,"Pirojsha Godrej",3,0,"Mumbai , Maharashtra , India",NULL,"2024-06-14 15:33:45",NULL,NULL,NULL,NULL
+43,10,"Lodha Group",2,1,"Mumbai , Maharashtra , India",NULL,"2024-06-14 15:33:48",NULL,NULL,NULL,NULL
+44,10,"Gaurav Gupta",2,0,"Mumbai , Maharashtra , India",NULL,"2024-06-14 15:33:52",NULL,NULL,NULL,NULL
+45,10,"Prestige Group",1,0,"Bengaluru , Karnataka , India",NULL,"2024-06-14 15:33:55",NULL,NULL,NULL,NULL
+46,15,"New Enterprise Associates",2188,594,"Menlo Park , California , United States",NULL,"2024-06-14 15:34:15",NULL,NULL,NULL,NULL
+47,16,"Kleiner Perkins",1417,337,"Menlo Park , California , United States",NULL,"2024-06-14 15:34:19",NULL,NULL,NULL,NULL
+48,21,"Canadian Business Growth Fund",37,3,"Toronto , Ontario , Canada",NULL,"2024-06-14 15:34:45",NULL,NULL,NULL,NULL
+49,17,Gruhas,31,0,"Bangalore , Karnataka , India",NULL,"2024-06-14 15:34:55",NULL,NULL,NULL,NULL
+50,17,"Transition Venture Capital",4,0,"Bengaluru , Karnataka , India",NULL,"2024-06-14 15:34:58",NULL,NULL,NULL,NULL
+51,17,"Haresh Abichandani",1,0,"Pune , Maharashtra , India",NULL,"2024-06-14 15:35:01",NULL,NULL,NULL,NULL
+52,19,Techstars,6027,487,"Boulder , Colorado , United States",NULL,"2024-06-14 15:35:11",NULL,NULL,NULL,NULL
+53,20,"Campus Fund",14,0,"Bengaluru , Karnataka , India",NULL,"2024-06-14 15:35:26",NULL,NULL,NULL,NULL
+54,20,"Theia Ventures",6,0,"Bangalore , Karnataka , India",NULL,"2024-06-14 15:35:29",NULL,NULL,NULL,NULL

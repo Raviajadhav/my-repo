@@ -1,0 +1,86 @@
+event_exibitor_id,event_id,exibitor_name,exibitor_desc,created_by,created_date,updated_by,updated_date,deleted_by,deleted_date
+1,9," Accenture ","Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.",NULL,"2024-06-17 12:56:30",NULL,NULL,NULL,NULL
+2,9," Accu-Time Systems ","Accu-Time Systems provides integrated, advanced and easy to use, time and attendance solutions.",NULL,"2024-06-17 12:56:55",NULL,NULL,NULL,NULL
+3,9," Actifio ","Actifio delivers enterprise data-as-a-service to global enterprise customers and service provider partners.",NULL,"2024-06-17 12:56:56",NULL,NULL,NULL,NULL
+4,9," API Wizard ","API Wizard they entire focus on helping organizations spend less time on data entry & maintenance while improving data quality, get quicker.",NULL,"2024-06-17 12:56:57",NULL,NULL,NULL,NULL
+5,9," Applaud ",Description,NULL,"2024-06-17 14:07:08",NULL,NULL,NULL,NULL
+6,9," AppsForte ","AppsForte Inc is specializes in providing IT services including Managed Hosting, Application Development, and Disaster Recovery services.",NULL,"2024-06-17 14:09:36",NULL,NULL,NULL,NULL
+7,10," Accu-Time Systems ","Accu-Time Systems provides integrated, advanced and easy to use, time and attendance solutions.",NULL,"2024-06-17 14:09:37",NULL,NULL,NULL,NULL
+8,10," Actifio ","Actifio delivers enterprise data-as-a-service to global enterprise customers and service provider partners.",NULL,"2024-06-17 14:09:37",NULL,NULL,NULL,NULL
+9,10," ADP ","ADP provides business outsourcing solutions that facilitate businesses in HR, payroll, and administration processes.",NULL,"2024-06-17 14:09:37",NULL,NULL,NULL,NULL
+10,10," Agamon ","Agamon is an AI-powered healthcare platform that converts clinical text into structured data.",NULL,"2024-06-17 14:09:37",NULL,NULL,NULL,NULL
+11,10," Akgun Software ","Akgun is a software company providing solutions in the fields of healthcare information systems.",NULL,"2024-06-17 14:09:37",NULL,NULL,NULL,NULL
+12,10," Alpha Net Consulting ","Anetcorp India is a IT services company offering solutions to complex business problems.",NULL,"2024-06-17 14:09:37",NULL,NULL,NULL,NULL
+13,11," 3Di Systems ","3Di Systems is recognized as a leading expert in providing custom web and mobile.",NULL,"2024-06-17 14:09:37",NULL,NULL,NULL,NULL
+14,11," Accenture ","Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.",NULL,"2024-06-17 14:09:38",NULL,NULL,NULL,NULL
+15,11," Accu-Time Systems ","Accu-Time Systems provides integrated, advanced and easy to use, time and attendance solutions.",NULL,"2024-06-17 14:09:38",NULL,NULL,NULL,NULL
+16,11," Actifio ","Actifio delivers enterprise data-as-a-service to global enterprise customers and service provider partners.",NULL,"2024-06-17 14:09:38",NULL,NULL,NULL,NULL
+17,11," ADP ","ADP provides business outsourcing solutions that facilitate businesses in HR, payroll, and administration processes.",NULL,"2024-06-17 14:09:38",NULL,NULL,NULL,NULL
+18,11," AlphaNet Solutions ","AlphaNet Solutions is a company providing IT services and computer repairs.",NULL,"2024-06-17 14:09:38",NULL,NULL,NULL,NULL
+19,1," Acqueon ","Acqueon is an innovative provider of conversational engagement software.",NULL,"2024-06-17 14:09:38",NULL,NULL,NULL,NULL
+20,1," Aisera ","Aisera is a leading provider of Generative AI Solutions that helps enterprises boost revenue, improve user productivity & get immediate ROI.",NULL,"2024-06-17 14:09:38",NULL,NULL,NULL,NULL
+21,1," aptpod ","aptpod has been in pursuit of frameworks that optimize all layers of data gathering.",NULL,"2024-06-17 14:09:39",NULL,NULL,NULL,NULL
+22,1," Armory ","Armory is an enterprise software company commercializing the open-source continuous delivery platform, Spinnaker.",NULL,"2024-06-17 14:09:39",NULL,NULL,NULL,NULL
+23,1," BICS ","BICS is recognized in the wholesale communications market as a top global voice carrier and the leading provider of mobile data services",NULL,"2024-06-17 14:09:39",NULL,NULL,NULL,NULL
+24,1," Bloombase ","Bloombase is an intelligent storage firewall company",NULL,"2024-06-17 14:09:39",NULL,NULL,NULL,NULL
+25,2," 0pass ","0pass is an authentication platform that removes the number one cybersecurity risk facing organizations.",NULL,"2024-06-17 14:09:39",NULL,NULL,NULL,NULL
+26,2," 1Password ","1Password operates as a password manager for documents, credit card information, and addresses.",NULL,"2024-06-17 14:09:39",NULL,NULL,NULL,NULL
+27,2," A2secure ","A2Secure specializes in digital security, helping its clients to manage the risk against the threats from electronic communications.",NULL,"2024-06-17 14:09:39",NULL,NULL,NULL,NULL
+28,2," A3Sec ","A3Sec is a CyberSecurity company providing Managed Detection & Response Services",NULL,"2024-06-17 14:09:39",NULL,NULL,NULL,NULL
+29,2," Abacode ","Abacode is a cybersecurity and compliance services company.",NULL,"2024-06-17 14:09:40",NULL,NULL,NULL,NULL
+30,2," Abnormal Security ","Abnormal Security is an email security company that protects enterprises and organizations from targeted email attacks.",NULL,"2024-06-17 14:09:40",NULL,NULL,NULL,NULL
+31,2," 0pass ","0pass is an authentication platform that removes the number one cybersecurity risk facing organizations.",NULL,"2024-06-17 14:09:40",NULL,NULL,NULL,NULL
+32,2," 1Password ","1Password operates as a password manager for documents, credit card information, and addresses.",NULL,"2024-06-17 14:09:40",NULL,NULL,NULL,NULL
+33,2," A2secure ","A2Secure specializes in digital security, helping its clients to manage the risk against the threats from electronic communications.",NULL,"2024-06-17 14:09:40",NULL,NULL,NULL,NULL
+34,2," A3Sec ","A3Sec is a CyberSecurity company providing Managed Detection & Response Services",NULL,"2024-06-17 14:09:40",NULL,NULL,NULL,NULL
+35,2," Abacode ","Abacode is a cybersecurity and compliance services company.",NULL,"2024-06-17 14:09:40",NULL,NULL,NULL,NULL
+36,2," Abnormal Security ","Abnormal Security is an email security company that protects enterprises and organizations from targeted email attacks.",NULL,"2024-06-17 14:09:40",NULL,NULL,NULL,NULL
+37,4," FitVity ","FitVity sells everything from the best value high-quality whey protein concentrate, to the latest US pre-workout supplements.",NULL,"2024-06-17 14:09:41",NULL,NULL,NULL,NULL
+38,4," Mondoo ","A security solution for DevOps and security teams",NULL,"2024-06-17 14:09:41",NULL,NULL,NULL,NULL
+39,4," Pepperdata ","Pepperdata provides real-time, automated cost optimization for Amazon EMR & EKS with no manual tuning and no application changes",NULL,"2024-06-17 14:09:41",NULL,NULL,NULL,NULL
+40,5," Akamai ","Akamai is a healthy personal care consumer goods company. It creates and sells healthy, natural, nutrient-rich, and more.",NULL,"2024-06-17 14:09:41",NULL,NULL,NULL,NULL
+41,5," Anomali ","Anomali is the leader in intelligence driven extended detection and response cybersecurity solutions.",NULL,"2024-06-17 14:09:41",NULL,NULL,NULL,NULL
+42,5," AT&T CyberSecurity ","AT&T CyberSecurity provides threat intelligence, collaborative defense, and security solutions for businesses.",NULL,"2024-06-17 14:09:41",NULL,NULL,NULL,NULL
+43,5," Auconet, Inc. ","Auconet’s technology and its ease of integration allow partners to elevate the value they offer to their enterprise customers.",NULL,"2024-06-17 14:09:41",NULL,NULL,NULL,NULL
+44,5," BigID ","BigID is a data intelligence company that helps organizations discover, manage, and protect sensitive information.",NULL,"2024-06-17 14:09:41",NULL,NULL,NULL,NULL
+45,5," Bitdefender ","Bitdefender is a security technology company that provides advanced threat protection to both business and consumer customers.",NULL,"2024-06-17 14:09:42",NULL,NULL,NULL,NULL
+46,6," ADB ","System Solutions for Pay-TV and Telco operators, content distributors and hospitality property owners",NULL,"2024-06-17 14:09:42",NULL,NULL,NULL,NULL
+47,6," Aerial ","Aerial leverages AI and existing wireless infrastructure to create Sensing Intelligence that enables smarter applications",NULL,"2024-06-17 14:09:42",NULL,NULL,NULL,NULL
+48,6," Aethra Telecommunications ","Aethra is a provider and manufacturer of telecommunication products and networks.",NULL,"2024-06-17 14:09:42",NULL,NULL,NULL,NULL
+49,6," Albis Elcon ","Albis Elcon supplies communication service providers (CSP) in the telecommunications industry.",NULL,"2024-06-17 14:09:42",NULL,NULL,NULL,NULL
+50,6," Allied Telesis ","A Telesis operates sales, leasing, distribution, and maintenance facilities in the United States, Canada, United Kingdom, Finland and China.",NULL,"2024-06-17 14:09:42",NULL,NULL,NULL,NULL
+51,6," Altice Labs ","Altice Labs is focused on the development of innovative products and services for ICT markets.",NULL,"2024-06-17 14:09:42",NULL,NULL,NULL,NULL
+52,7," Andrew Lewman ","Andrew Lewman is the Technical Advisor at SPJ GTM. He attended Framingham State University.",NULL,"2024-06-17 14:09:42",NULL,NULL,NULL,NULL
+53,7," Jscrambler ","Jscrambler is the leading client-side security solution for JavaScript protection and webpage real-time monitoring.",NULL,"2024-06-17 14:09:42",NULL,NULL,NULL,NULL
+54,7," Mesh7 ","Mesh7 provides run-time cloud application security observability to detect and mitigate all blind spot risks of modern applications.",NULL,"2024-06-17 14:09:42",NULL,NULL,NULL,NULL
+55,8," Akamai Technologies ","Akamai is a provider of cloud services that help enterprises provide secure, high-performing user experiences on any device.",NULL,"2024-06-17 14:09:43",NULL,NULL,NULL,NULL
+56,8," Authomize (Now part of Delinea) ","Authomize is an Detect and Eliminate Identity threats across cloud and IAM.",NULL,"2024-06-17 14:09:43",NULL,NULL,NULL,NULL
+57,8," Bloombase ","Bloombase is an intelligent storage firewall company",NULL,"2024-06-17 14:09:43",NULL,NULL,NULL,NULL
+58,8," FireEye ","FireEye is an intelligence-led security company that protects customers using innovative technology and expertise from the front lines.",NULL,"2024-06-17 14:09:43",NULL,NULL,NULL,NULL
+59,8," Fortinet ","Fortinet is a provider of network security appliances that include firewalls, security gateways, and complementary products.",NULL,"2024-06-17 14:09:43",NULL,NULL,NULL,NULL
+60,8," Juniper Networks ","Juniper Networks is a networking company that markets and develops networking products for enterprise companies.",NULL,"2024-06-17 14:09:43",NULL,NULL,NULL,NULL
+61,12," Heyday AI ","Heyday is the leading Conversational AI platform for retailers.",NULL,"2024-06-17 14:09:43",NULL,NULL,NULL,NULL
+62,12," Lambda ","Lambda is a cloud-based GPU company catering to developers throughout the entire lifecycle of AI development.",NULL,"2024-06-17 14:09:44",NULL,NULL,NULL,NULL
+63,12," MachEye ","Natural Search & AI-Powered Interactive Analytics",NULL,"2024-06-17 14:09:44",NULL,NULL,NULL,NULL
+64,12," Rasa ","Rasa provides an open platform for generative conversational AI, enabling the creation and deployment of advanced AI assistants.",NULL,"2024-06-17 14:09:44",NULL,NULL,NULL,NULL
+65,12," Valohai ","Valohai develops a MLOps platform designed for ML pioneers.",NULL,"2024-06-17 14:09:44",NULL,NULL,NULL,NULL
+66,12," Weights & Biases ","Weights & Biases is a developer-first MLOps platform that builds machine learning performance visualization tools.",NULL,"2024-06-17 14:09:44",NULL,NULL,NULL,NULL
+67,14," 3dMD ","3dMD is the world leader in the development of anatomically-precise 3D and “temporal-3D” (4D) surface imaging systems.",NULL,"2024-06-17 14:09:44",NULL,NULL,NULL,NULL
+68,14," ABEJA ","ABEJA is a platform that integrate state-of-the-art AI technologies including IoT, big data, and deep learning.",NULL,"2024-06-17 14:09:44",NULL,NULL,NULL,NULL
+69,14," Adobe ","Adobe is a software company that provides its users with digital marketing and media solutions.",NULL,"2024-06-17 14:09:44",NULL,NULL,NULL,NULL
+70,14," Aibee ","Aibee is an AI startup that develops speech recognition, big data analysis, and natural language processing technologies.",NULL,"2024-06-17 14:09:45",NULL,NULL,NULL,NULL
+71,14," Alegion ","Alegion’s platform blends human and machine intelligence to provide accurate labeled data used to train or validate machine learning models.",NULL,"2024-06-17 14:09:45",NULL,NULL,NULL,NULL
+72,14," Algolux ","Algolux empowers vision systems with the most robust perception technology for all conditions.",NULL,"2024-06-17 14:09:45",NULL,NULL,NULL,NULL
+73,14," 3dMD ","3dMD is the world leader in the development of anatomically-precise 3D and “temporal-3D” (4D) surface imaging systems.",NULL,"2024-06-17 14:09:45",NULL,NULL,NULL,NULL
+74,14," ABEJA ","ABEJA is a platform that integrate state-of-the-art AI technologies including IoT, big data, and deep learning.",NULL,"2024-06-17 14:09:45",NULL,NULL,NULL,NULL
+75,14," Adobe ","Adobe is a software company that provides its users with digital marketing and media solutions.",NULL,"2024-06-17 14:09:45",NULL,NULL,NULL,NULL
+76,14," Aibee ","Aibee is an AI startup that develops speech recognition, big data analysis, and natural language processing technologies.",NULL,"2024-06-17 14:09:45",NULL,NULL,NULL,NULL
+77,14," Alegion ","Alegion’s platform blends human and machine intelligence to provide accurate labeled data used to train or validate machine learning models.",NULL,"2024-06-17 14:09:46",NULL,NULL,NULL,NULL
+78,14," Algolux ","Algolux empowers vision systems with the most robust perception technology for all conditions.",NULL,"2024-06-17 14:09:46",NULL,NULL,NULL,NULL
+79,16," Chatbase ","We develop AI technologies and tools to help Contact Center create smarter virtual agents more effectively.",NULL,"2024-06-17 14:09:46",NULL,NULL,NULL,NULL
+80,16," Determined AI ","Determined AI is a machine learning tech company that revolutionizes the way deep models are trained and deployed.",NULL,"2024-06-17 14:09:46",NULL,NULL,NULL,NULL
+81,16," iMerit ","iMerit provides AI data solutions across computer vision and natural language processing for AI developers.",NULL,"2024-06-17 14:09:46",NULL,NULL,NULL,NULL
+82,16," Next AI ","Next AI is a global innovation hub for artificial intelligence related venture creation and technology commercialization.",NULL,"2024-06-17 14:09:46",NULL,NULL,NULL,NULL
+83,16," NFLabs ","NFLabs’ mission is to simplify the way the world analyzes data.",NULL,"2024-06-17 14:09:46",NULL,NULL,NULL,NULL
+84,16," Ouster ","Ouster builds high-resolution digital lidar sensors for industrial automation, smart infrastructure, robotics, and automotive.",NULL,"2024-06-17 14:09:46",NULL,NULL,NULL,NULL
+85,19," Blue Scan Labs ","Blue Scan Labs is a real time cancer screening platform powered by artificial intelligence.",NULL,"2024-06-17 14:09:47",NULL,NULL,NULL,NULL

@@ -1,0 +1,110 @@
+event_sponsor_id,event_id,sponsor_name,sponsor_desc,created_by,created_date,updated_by,updated_date,deleted_by,deleted_date
+1,1," 128 Technology ","128 Technology provides software-based routing solutions that enable enterprises and service providers to build networks.",NULL,"2024-06-17 16:34:00",NULL,NULL,NULL,NULL
+2,1," 2nd Watch ","2nd Watch is an AWS Premier Partner and a Microsoft Azure Gold Partner that provides consulting and managed cloud services to enterprises.",NULL,"2024-06-17 16:34:00",NULL,NULL,NULL,NULL
+3,1," 8x8 ","8x8 offers secure and reliable cloud-based, enterprise-class business phone systems, unified communications, and contact center solutions.",NULL,"2024-06-17 16:34:00",NULL,NULL,NULL,NULL
+4,1," Ab Initio ","Ab Initio is a software platform providing high-volume data processing systems and enterprise application integration for businesses.",NULL,"2024-06-17 16:34:00",NULL,NULL,NULL,NULL
+5,1," Accenture ","Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.",NULL,"2024-06-17 16:34:00",NULL,NULL,NULL,NULL
+6,1," A Cloud Guru ","A Cloud Guru is a social learning platform for cloud computing.",NULL,"2024-06-17 16:34:00",NULL,NULL,NULL,NULL
+7,2," Acronis ","Acronis unifies data protection & cybersecurity to deliver integrated, automated cyber protection to solve challenges of the digital world.",NULL,"2024-06-17 16:34:00",NULL,NULL,NULL,NULL
+8,2," Actimize ","NICE Actimize provides real-time fraud prevention, anti-money laundering, enterprise investigations and risk management solutions.",NULL,"2024-06-17 16:34:00",NULL,NULL,NULL,NULL
+9,2," Akamai Technologies ","Akamai is a provider of cloud services that help enterprises provide secure, high-performing user experiences on any device.",NULL,"2024-06-17 16:34:00",NULL,NULL,NULL,NULL
+10,2," Armis Security ","Armis is a developer of an asset intelligence platform to analyze endpoint behavior to identify risks and attacks.",NULL,"2024-06-17 16:34:00",NULL,NULL,NULL,NULL
+11,2," AT&T CyberSecurity ","AT&T CyberSecurity provides threat intelligence, collaborative defense, and security solutions for businesses.",NULL,"2024-06-17 16:34:00",NULL,NULL,NULL,NULL
+12,2," Axonius ","Axonius is an asset inventory management platform that focuses on cybersecurity solutions and policies.",NULL,"2024-06-17 16:34:00",NULL,NULL,NULL,NULL
+13,2," Acronis ","Acronis unifies data protection & cybersecurity to deliver integrated, automated cyber protection to solve challenges of the digital world.",NULL,"2024-06-17 16:34:01",NULL,NULL,NULL,NULL
+14,2," Actimize ","NICE Actimize provides real-time fraud prevention, anti-money laundering, enterprise investigations and risk management solutions.",NULL,"2024-06-17 16:34:01",NULL,NULL,NULL,NULL
+15,2," Akamai Technologies ","Akamai is a provider of cloud services that help enterprises provide secure, high-performing user experiences on any device.",NULL,"2024-06-17 16:34:01",NULL,NULL,NULL,NULL
+16,2," Armis Security ","Armis is a developer of an asset intelligence platform to analyze endpoint behavior to identify risks and attacks.",NULL,"2024-06-17 16:34:01",NULL,NULL,NULL,NULL
+17,2," AT&T CyberSecurity ","AT&T CyberSecurity provides threat intelligence, collaborative defense, and security solutions for businesses.",NULL,"2024-06-17 16:34:01",NULL,NULL,NULL,NULL
+18,2," Axonius ","Axonius is an asset inventory management platform that focuses on cybersecurity solutions and policies.",NULL,"2024-06-17 16:34:01",NULL,NULL,NULL,NULL
+19,4," Accurics ","Accurics is a cloud cyber resilience specialist that enables resilient, self-healing cloud-native infrastructure.",NULL,"2024-06-17 16:34:02",NULL,NULL,NULL,NULL
+20,4," Acnodal, Inc. ","Acnodal is a cloud native network infrastructure company.",NULL,"2024-06-17 16:34:02",NULL,NULL,NULL,NULL
+21,4," Aiven ","Aiven is a technology-driven company that enables businesses to manage an open-source data infrastructure in the cloud.",NULL,"2024-06-17 16:34:02",NULL,NULL,NULL,NULL
+22,4," Amazon Web Services ","Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.",NULL,"2024-06-17 16:34:02",NULL,NULL,NULL,NULL
+23,4," Ambassador ","Ambassador turns your customers into new revenue by automating and scaling referral, partner, influencer & affiliate marketing programs.",NULL,"2024-06-17 16:34:02",NULL,NULL,NULL,NULL
+24,4," Anchore ","Anchore helps organizations implement secure container-based workflows without compromising velocity.",NULL,"2024-06-17 16:34:02",NULL,NULL,NULL,NULL
+25,5," Anitian ","Delivering the fastest path to security and compliance in the cloud.",NULL,"2024-06-17 16:34:02",NULL,NULL,NULL,NULL
+26,5," AT&T CyberSecurity ","AT&T CyberSecurity provides threat intelligence, collaborative defense, and security solutions for businesses.",NULL,"2024-06-17 16:34:02",NULL,NULL,NULL,NULL
+27,5," BigID ","BigID is a data intelligence company that helps organizations discover, manage, and protect sensitive information.",NULL,"2024-06-17 16:34:02",NULL,NULL,NULL,NULL
+28,5," Bitglass ","Bitglass is an information technology company that helps enterprises move to SaaS-based and mobile deployments securely.",NULL,"2024-06-17 16:34:02",NULL,NULL,NULL,NULL
+29,5," Blackberry ","BlackBerry provides wireless devices and solutions for the worldwide mobile communications market.",NULL,"2024-06-17 16:34:02",NULL,NULL,NULL,NULL
+30,5," BrandShield ","BrandShield is a brand-oriented digital risk protection company providing threat detection and remediation solutions.",NULL,"2024-06-17 16:34:02",NULL,NULL,NULL,NULL
+31,6," ADTRAN ","ADTRAN, Inc. designs, manufactures, markets, and services network access solutions that enable voice, data, video, and Internet",NULL,"2024-06-17 16:34:02",NULL,NULL,NULL,NULL
+32,6," ASSIA ","Broadband and Wi-Fi performance monitoring, management and optimization solutions for Internet Service Providers",NULL,"2024-06-17 16:34:03",NULL,NULL,NULL,NULL
+33,6," Cambridge Industries Group ","CIG can partner with your company to better serve your customer needs.",NULL,"2024-06-17 16:34:03",NULL,NULL,NULL,NULL
+34,6," FiberHome Technologies ","FiberHome Technologies is China's outstanding field of information and communication products and integrated solutions provider.",NULL,"2024-06-17 16:38:41",NULL,NULL,NULL,NULL
+35,6," F-Secure ","F-Secure is an IT security company that specializes in providing security software and solutions.",NULL,"2024-06-17 16:38:42",NULL,NULL,NULL,NULL
+36,6," Huawei Technologies ","Huawei Technologies provides infrastructure application software and devices with wireline, wireless, and IP technologies.",NULL,"2024-06-17 16:38:42",NULL,NULL,NULL,NULL
+37,7," 1Password ","1Password operates as a password manager for documents, credit card information, and addresses.",NULL,"2024-06-17 16:38:42",NULL,NULL,NULL,NULL
+38,7," A10 Networks ","A10 Networks offers solutions for accelerating web application delivery, bandwidth management and network identity issues.",NULL,"2024-06-17 16:38:42",NULL,NULL,NULL,NULL
+39,7," Abnormal Security ","Abnormal Security is an email security company that protects enterprises and organizations from targeted email attacks.",NULL,"2024-06-17 16:38:42",NULL,NULL,NULL,NULL
+40,7," Acalvio Technologies ","Acalvio, the leader in cyber deception technology, helps enterprises actively defend against advanced security threats.",NULL,"2024-06-17 16:38:42",NULL,NULL,NULL,NULL
+41,7," Accenture ","Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.",NULL,"2024-06-17 16:38:42",NULL,NULL,NULL,NULL
+42,7," Active CounterMeasures ","Active CounterMeasures produces threat hunting software that can detect malware and malicious backdoors.",NULL,"2024-06-17 16:38:42",NULL,NULL,NULL,NULL
+43,8," Check Point Software Technologies ","Check Point Software Technologies provides and protects customers from cyberattacks.",NULL,"2024-06-17 16:38:42",NULL,NULL,NULL,NULL
+44,8," Cisco ","Cisco develops, manufactures, and sells networking hardware, telecommunications equipment, and other technology services and products.",NULL,"2024-06-17 16:38:43",NULL,NULL,NULL,NULL
+45,8," Exabeam ","Exabeam is a global cybersecurity leader that delivers AI-driven security operations. Learn more at www.exabeam.com.",NULL,"2024-06-17 16:38:43",NULL,NULL,NULL,NULL
+46,8," Forcepoint ","Forcepoint is a data protection cybersecurity firm that helps businesses in securing users, data, and networks while enabling development.",NULL,"2024-06-17 16:38:43",NULL,NULL,NULL,NULL
+47,8," IBM ","IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services.",NULL,"2024-06-17 16:38:43",NULL,NULL,NULL,NULL
+48,8," McAfee ","McAfee is an online security company that provides virus alerts and analysis on malware, network security threats, and web vulnerabilities.",NULL,"2024-06-17 16:38:43",NULL,NULL,NULL,NULL
+49,12," Comet ","Comet allows data scientists to automatically track their datasets, code changes, experimentation history, and production models.",NULL,"2024-06-17 16:38:44",NULL,NULL,NULL,NULL
+50,12," Microsoft ","Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.",NULL,"2024-06-17 16:38:44",NULL,NULL,NULL,NULL
+51,12," NGD Systems ","NGD Systems manufactures the world’s most advanced computational storage drives (CSDs) that allow customers to compute anywhere.",NULL,"2024-06-17 16:38:44",NULL,NULL,NULL,NULL
+52,12," PGS Software ","PGS Software is an IT outsourcing company, providing services in nearshore development, custom software development & mobile application.",NULL,"2024-06-17 16:38:44",NULL,NULL,NULL,NULL
+53,12," Sama ","Sama is a training data partner trusted by organizations to develop accurate artificial intelligence and machine learning models.",NULL,"2024-06-17 16:38:44",NULL,NULL,NULL,NULL
+54,13," Habana ","Habana Labs is a semiconductor company focusing on developing disruptive solutions for data center and cloud efficiency.",NULL,"2024-06-17 16:38:44",NULL,NULL,NULL,NULL
+55,13," Lambda ","Lambda is a cloud-based GPU company catering to developers throughout the entire lifecycle of AI development.",NULL,"2024-06-17 16:38:44",NULL,NULL,NULL,NULL
+56,13," Pryon ","Pryon is an AI company that focuses on enterprise knowledge management.",NULL,"2024-06-17 16:38:44",NULL,NULL,NULL,NULL
+57,14," ABEJA ","ABEJA is a platform that integrate state-of-the-art AI technologies including IoT, big data, and deep learning.",NULL,"2024-06-17 16:38:44",NULL,NULL,NULL,NULL
+58,14," Adobe ","Adobe is a software company that provides its users with digital marketing and media solutions.",NULL,"2024-06-17 16:38:44",NULL,NULL,NULL,NULL
+59,14," Aibee ","Aibee is an AI startup that develops speech recognition, big data analysis, and natural language processing technologies.",NULL,"2024-06-17 16:38:44",NULL,NULL,NULL,NULL
+60,14," Algolux ","Algolux empowers vision systems with the most robust perception technology for all conditions.",NULL,"2024-06-17 16:38:45",NULL,NULL,NULL,NULL
+61,14," Alibaba Group ","Alibaba Group enables businesses to transform the way they market, sell, operate, and improve their efficiencies.",NULL,"2024-06-17 16:38:45",NULL,NULL,NULL,NULL
+62,14," AMAX Engineering Corporation ","Founded in 1979, AMAX specializes in engineering and manufacturing custom Cluster, Server and Storage solutions in North America.",NULL,"2024-06-17 16:38:45",NULL,NULL,NULL,NULL
+63,14," ABEJA ","ABEJA is a platform that integrate state-of-the-art AI technologies including IoT, big data, and deep learning.",NULL,"2024-06-17 16:38:45",NULL,NULL,NULL,NULL
+64,14," Adobe ","Adobe is a software company that provides its users with digital marketing and media solutions.",NULL,"2024-06-17 16:38:45",NULL,NULL,NULL,NULL
+65,14," Aibee ","Aibee is an AI startup that develops speech recognition, big data analysis, and natural language processing technologies.",NULL,"2024-06-17 16:38:45",NULL,NULL,NULL,NULL
+66,14," Algolux ","Algolux empowers vision systems with the most robust perception technology for all conditions.",NULL,"2024-06-17 16:38:45",NULL,NULL,NULL,NULL
+67,14," Alibaba Group ","Alibaba Group enables businesses to transform the way they market, sell, operate, and improve their efficiencies.",NULL,"2024-06-17 16:38:45",NULL,NULL,NULL,NULL
+68,14," AMAX Engineering Corporation ","Founded in 1979, AMAX specializes in engineering and manufacturing custom Cluster, Server and Storage solutions in North America.",NULL,"2024-06-17 16:38:45",NULL,NULL,NULL,NULL
+69,16," Bitext ","Bitext develops the most accurate multilingual text analysis engines in the market such as middleware for chatbots and lemmatization.",NULL,"2024-06-17 16:38:45",NULL,NULL,NULL,NULL
+70,16," Lambda ","Lambda is a cloud-based GPU company catering to developers throughout the entire lifecycle of AI development.",NULL,"2024-06-17 16:38:46",NULL,NULL,NULL,NULL
+71,16," PipelineAI ","Real-Time Enterprise AI Platform",NULL,"2024-06-17 16:38:46",NULL,NULL,NULL,NULL
+72,16," Pure Storage ","Pure Storage is an all-flash enterprise storage company that enables broad deployment of flash in data centers.",NULL,"2024-06-17 16:38:46",NULL,NULL,NULL,NULL
+73,16," VideoKen ","VideoKen’s AI-based Video Interactivity solution",NULL,"2024-06-17 16:38:46",NULL,NULL,NULL,NULL
+74,17," 360 Security Center ","360 Security Center is an all-in-one mobile optimizer and security app offering Internet and mobile security products.",NULL,"2024-06-17 16:38:46",NULL,NULL,NULL,NULL
+75,17," AITRICS ","AITRICS is taking on the ultimate role of giving everyone access to the power of data-driven health intelligence.",NULL,"2024-06-17 16:38:46",NULL,NULL,NULL,NULL
+76,17," Alibaba Group ","Alibaba Group enables businesses to transform the way they market, sell, operate, and improve their efficiencies.",NULL,"2024-06-17 16:38:46",NULL,NULL,NULL,NULL
+77,17," Amazon ","Amazon is a global tech firm with a focus on e-commerce, cloud computing, digital streaming, and artificial intelligence.",NULL,"2024-06-17 16:38:46",NULL,NULL,NULL,NULL
+78,17," Ant Group ","Ant Group strives to enable all consumers and small businesses to have equal access to financial and other services through technology.",NULL,"2024-06-17 16:38:46",NULL,NULL,NULL,NULL
+79,17," Apple ","Apple is a corporation that designs, manufactures, and markets consumer electronics, personal computers, and software.",NULL,"2024-06-17 16:38:46",NULL,NULL,NULL,NULL
+80,18," APTARE ","Enterprise storage software company.",NULL,"2024-06-17 16:38:47",NULL,NULL,NULL,NULL
+81,18," Arista Networks ","Arista Networks is a computer networking firm delivering cloud networking solutions for large data center and computer environments.",NULL,"2024-06-17 16:38:47",NULL,NULL,NULL,NULL
+82,18," Catalogic ","Catalogic is a provider of smart data protection solutions.",NULL,"2024-06-17 16:38:47",NULL,NULL,NULL,NULL
+83,18," Cisco ","Cisco develops, manufactures, and sells networking hardware, telecommunications equipment, and other technology services and products.",NULL,"2024-06-17 16:38:47",NULL,NULL,NULL,NULL
+84,18," Cohesity ","Cohesity offers hyperconverged secondary storage for backups, test/dev, file services, and analytics use cases.",NULL,"2024-06-17 16:38:47",NULL,NULL,NULL,NULL
+85,18," Commvault ","Commvault provides a data and enterprise backup software.",NULL,"2024-06-17 16:38:47",NULL,NULL,NULL,NULL
+86,19," Adobe ","Adobe is a software company that provides its users with digital marketing and media solutions.",NULL,"2024-06-17 16:38:47",NULL,NULL,NULL,NULL
+87,19," AIG ","American International Group provides property insurance, life insurance, and financial services.",NULL,"2024-06-17 16:38:47",NULL,NULL,NULL,NULL
+88,19," Airbnb ","Airbnb is an online community marketplace for people to list, discover, and book accommodations through mobile phones or the internet.",NULL,"2024-06-17 16:38:47",NULL,NULL,NULL,NULL
+89,19," Alibaba Group ","Alibaba Group enables businesses to transform the way they market, sell, operate, and improve their efficiencies.",NULL,"2024-06-17 16:38:47",NULL,NULL,NULL,NULL
+90,19," Amazon ","Amazon is a global tech firm with a focus on e-commerce, cloud computing, digital streaming, and artificial intelligence.",NULL,"2024-06-17 16:38:48",NULL,NULL,NULL,NULL
+91,19," Apple ","Apple is a corporation that designs, manufactures, and markets consumer electronics, personal computers, and software.",NULL,"2024-06-17 16:38:48",NULL,NULL,NULL,NULL
+92,9," Arrow Electronics ","Arrow Electronics designs, manufactures and distributes electronic components for industrial and commercial sectors.",NULL,"2024-06-17 16:38:48",NULL,NULL,NULL,NULL
+93,9," Baker Tilly ","Baker Tilly is a advisory CPA firm, providing clients with a genuine coast-to-coast and global advantage in major regions.",NULL,"2024-06-17 16:38:48",NULL,NULL,NULL,NULL
+94,9," Capgemini ","Capgemini provides consulting, technology, and digital transformation services.",NULL,"2024-06-17 16:38:48",NULL,NULL,NULL,NULL
+95,9," Cognizant ","Cognizant is a professional services company, transforming clients’ business, operating and technology models for the digital era.",NULL,"2024-06-17 16:38:48",NULL,NULL,NULL,NULL
+96,9," Couchbase ","Couchbase is a NoSQL cloud database for business-critical applications.",NULL,"2024-06-17 16:38:48",NULL,NULL,NULL,NULL
+97,9," Data Intensity ","Solution Expertise. Boutique Service. Trusted Advisor.",NULL,"2024-06-17 16:38:48",NULL,NULL,NULL,NULL
+98,10," Accenture ","Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.",NULL,"2024-06-17 16:38:48",NULL,NULL,NULL,NULL
+99,10," Arrow Electronics ","Arrow Electronics designs, manufactures and distributes electronic components for industrial and commercial sectors.",NULL,"2024-06-17 16:38:48",NULL,NULL,NULL,NULL
+100,10," Automation Anywhere ","Automation Anywhere is a digital workforce platform that provides end-to-end automation solutions and business processes.",NULL,"2024-06-17 16:38:49",NULL,NULL,NULL,NULL
+101,10," Baker Tilly ","Baker Tilly is a advisory CPA firm, providing clients with a genuine coast-to-coast and global advantage in major regions.",NULL,"2024-06-17 16:38:49",NULL,NULL,NULL,NULL
+102,10," Capgemini ","Capgemini provides consulting, technology, and digital transformation services.",NULL,"2024-06-17 16:38:49",NULL,NULL,NULL,NULL
+103,10," Celonis ","Celonis provides an execution management system that helps companies in running their business processes.",NULL,"2024-06-17 16:38:49",NULL,NULL,NULL,NULL
+104,11," Accenture ","Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.",NULL,"2024-06-17 16:38:49",NULL,NULL,NULL,NULL
+105,11," Arrow Electronics ","Arrow Electronics designs, manufactures and distributes electronic components for industrial and commercial sectors.",NULL,"2024-06-17 16:38:49",NULL,NULL,NULL,NULL
+106,11," Baker Tilly ","Baker Tilly is a advisory CPA firm, providing clients with a genuine coast-to-coast and global advantage in major regions.",NULL,"2024-06-17 16:38:49",NULL,NULL,NULL,NULL
+107,11," Capgemini ","Capgemini provides consulting, technology, and digital transformation services.",NULL,"2024-06-17 16:38:49",NULL,NULL,NULL,NULL
+108,11," Celonis ","Celonis provides an execution management system that helps companies in running their business processes.",NULL,"2024-06-17 16:38:49",NULL,NULL,NULL,NULL
+109,11," Cognizant ","Cognizant is a professional services company, transforming clients’ business, operating and technology models for the digital era.",NULL,"2024-06-17 16:38:49",NULL,NULL,NULL,NULL

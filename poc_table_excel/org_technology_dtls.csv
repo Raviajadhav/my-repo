@@ -1,0 +1,26 @@
+technology_dtl_id,org_id,technology_name,created_by,created_date,updated_by,updated_date,deleted_by,deleted_date
+1,1,"Pound Sterling  Squarespace Hosted",1,"2024-06-14 19:31:45",NULL,NULL,NULL,NULL
+2,2,"US Server Location  Common Name Invalid",1,"2024-06-14 19:32:23",NULL,NULL,NULL,NULL
+3,3,"Amazon , Google Apps for Business ,  GoDaddy DNS",1,"2024-06-14 19:32:25",NULL,NULL,NULL,NULL
+4,4,"Font Awesome , Cloudflare JS ,  CDN JS",1,"2024-06-14 19:32:27",NULL,NULL,NULL,NULL
+5,5,"CrUX Top 50m , CrUX Dataset ,  Express",1,"2024-06-14 19:33:50",NULL,NULL,NULL,NULL
+6,6,"Google Apps for Business , Microsoft Azure DNS ,  Black Lotus",1,"2024-06-14 19:33:52",NULL,NULL,NULL,NULL
+7,7,,1,"2024-06-14 19:33:54",NULL,NULL,NULL,NULL
+8,8,"HTML5 , jQuery ,  Google Analytics",1,"2024-06-14 19:33:57",NULL,NULL,NULL,NULL
+9,9,,1,"2024-06-14 19:34:00",NULL,NULL,NULL,NULL
+10,10,"HTML5 , jQuery ,  Google Analytics",1,"2024-06-14 19:34:02",NULL,NULL,NULL,NULL
+11,13,"SPF , LetsEncrypt ,  Mobile Non Scaleable Content",1,"2024-06-14 19:34:05",NULL,NULL,NULL,NULL
+12,26,"HTML5 , jQuery ,  Google Analytics",1,"2024-06-14 19:34:07",NULL,NULL,NULL,NULL
+13,27,,1,"2024-06-14 19:34:10",NULL,NULL,NULL,NULL
+14,14,"Viewport Meta , IPhone / Mobile Compatible ,  SPF",1,"2024-06-14 19:34:12",NULL,NULL,NULL,NULL
+15,15,,1,"2024-06-14 19:34:14",NULL,NULL,NULL,NULL
+16,16,"Viewport Meta , IPhone / Mobile Compatible ,  Amazon",1,"2024-06-14 19:34:16",NULL,NULL,NULL,NULL
+17,17,"HTML5 , jQuery ,  Google Analytics",1,"2024-06-14 19:34:19",NULL,NULL,NULL,NULL
+18,18,"HTML5 , jQuery ,  Google Analytics",1,"2024-06-14 19:34:21",NULL,NULL,NULL,NULL
+19,24,"Domain Not Resolving , Facebook Sharer ,  Gravatar Profiles",1,"2024-06-14 19:34:23",NULL,NULL,NULL,NULL
+20,19,"Amazon , Person Schema ,  Gravatar Profiles",1,"2024-06-14 19:34:25",NULL,NULL,NULL,NULL
+21,20,"Viewport Meta , IPhone / Mobile Compatible ,  Domain Not Resolving",1,"2024-06-14 19:34:28",NULL,NULL,NULL,NULL
+22,21,"IPhone / Mobile Compatible , SPF ,  Apple Mobile Web Clips Icon",1,"2024-06-14 19:34:30",NULL,NULL,NULL,NULL
+23,22,"Viewport Meta , IPhone / Mobile Compatible , Apple Mobile Web Clips Icon",1,"2024-06-14 19:34:32",NULL,NULL,NULL,NULL
+24,23,"Viewport Meta , IPhone / Mobile Compatible , SPF",1,"2024-06-14 19:34:34",NULL,NULL,NULL,NULL
+25,25,"Viewport Meta , IPhone / Mobile Compatible , Domain Not Resolving",1,"2024-06-14 19:34:37",NULL,NULL,NULL,NULL

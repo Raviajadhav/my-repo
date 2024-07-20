@@ -1,0 +1,11 @@
+investment_id,org_id,announced_date,invested_org_name,funding_round,is_lead_investor,invested_amount,currency,created_by,created_date,updated_by,updated_date,deleted_by,deleted_date
+1,10,2024-02-07,ZEDEDA,"Series C - ZEDEDA",No,72000000,$,NULL,"2024-06-13 16:11:50",NULL,NULL,NULL,NULL
+2,10,2022-07-21,ZEDEDA,"Series B - ZEDEDA",No,26000000,$,NULL,"2024-06-13 16:14:27",NULL,NULL,NULL,NULL
+3,10,2022-06-23,"Tibit Communications","Series C - Tibit Communications",No,30000000,$,NULL,"2024-06-13 16:14:35",NULL,NULL,NULL,NULL
+4,10,2022-02-22,"Cohere Technologies","Series D - Cohere Technologies",No,46000000,$,NULL,"2024-06-13 16:14:44",NULL,NULL,NULL,NULL
+5,10,2021-03-31,ZEDEDA,"Series A - ZEDEDA",Yes,12500000,$,NULL,"2024-06-13 16:15:03",NULL,NULL,NULL,NULL
+6,10,2020-03-17,STACKPATH,"Series B - STACKPATH",Yes,216000000,$,NULL,"2024-06-13 16:15:10",NULL,NULL,NULL,NULL
+7,10,2020-03-09,Lightbend,"Series D - Lightbend",No,25000000,$,NULL,"2024-06-13 16:15:18",NULL,NULL,NULL,NULL
+8,10,2019-12-20,Nstream,"Series B - Nstream",No,7000000,$,NULL,"2024-06-13 16:15:27",NULL,NULL,NULL,NULL
+9,10,2019-01-23,"Alchemist Accelerator","Venture Round - Alchemist Accelerator",Yes,2500000,$,NULL,"2024-06-13 16:15:59",NULL,NULL,NULL,NULL
+10,10,2019-01-01,Mesh7,"Venture Round - Mesh7",No,8400000,$,NULL,"2024-06-13 16:16:06",NULL,NULL,NULL,NULL
